@@ -15,7 +15,6 @@ Understanding how models learn continuous values.
 
 ### Algorithms
 
-* Mean predictor
 * Linear Regression
 * Multiple Linear Regression
 * Polynomial Regression
